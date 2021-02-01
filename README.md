@@ -30,3 +30,9 @@
     关系型数据库
 
 5.8 主题库服务
+
+6、技术交流
+
+bdp交流群: https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/design/wechat_group/bdp_%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg
+
+作者微信: https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/wechat/%E5%BE%AE%E4%BF%A1.jpg
